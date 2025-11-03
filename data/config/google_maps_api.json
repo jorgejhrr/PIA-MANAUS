@@ -1,0 +1,10 @@
+{
+  "api_key": "SUA_API_KEY_AQUI",
+  "project_id": "pia-manaus",
+  "enabled_apis": [
+    "maps",
+    "routes",
+    "places",
+    "geocoding"
+  ]
+}
