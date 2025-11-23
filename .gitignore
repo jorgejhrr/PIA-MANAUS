@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+data/*.log
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+data/database/*.db
+
+# Cache de TTS
+data/tts_cache/
+
+# Configurações sensíveis
+data/config/google_maps_api.json
+.env
+*.key
+
+# Arquivos temporários
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Pygame
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Documentação gerada
+docs/_build/
+site/
